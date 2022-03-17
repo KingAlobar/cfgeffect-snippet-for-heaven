@@ -1,0 +1,79 @@
+
+		{ 	"AreaName": "Heaven1", 
+			"Type": "ContaminatedArea_Static", 
+			"TriggerType": "EffectTrigger",
+			"Data": { 
+				"Pos": [
+                8117.16943359375,
+                558.0,
+                9083.6005859375
+            ],
+				"Radius": 20,
+				"PosHeight": 10,
+				"NegHeight": 10,
+				"InnerRingCount": 1,
+				"InnerPartDist": 30,
+				"OuterRingToggle": 1, 
+				"OuterPartDist": 40, 
+				"OuterOffset": 0, 
+				"VerticalLayers": 0,
+				"VerticalOffset": 0,
+				"ParticleName": "graphics/particles/spooky_mist"
+				},
+			"PlayerData": {
+				"AroundPartName": "graphics/particles/spooky_mist",
+				"PPERequesterType": "PPERequester_GlassesSportGreen"
+			}
+		},
+		{ 	"AreaName": "Heaven2", 
+			"Type": "ContaminatedArea_Static", 
+			"TriggerType": "EffectTrigger",
+			"Data": { 
+				"Pos": [
+                8117.16943359375,
+                558.0,
+                9083.6005859375
+            ],
+				"Radius": 30,
+				"PosHeight": 10,
+				"NegHeight": 10,
+				"InnerRingCount": 1,
+				"InnerPartDist": 80,
+				"OuterRingToggle": 1, 
+				"OuterPartDist": 80, 
+				"OuterOffset": 0, 
+				"VerticalLayers": 0,
+				"VerticalOffset": 0,
+				"ParticleName": "graphics/particles/spooky_mist"
+				},
+			"PlayerData": {
+				"AroundPartName": "graphics/particles/spooky_mist",
+				"PPERequesterType": "PPERequester_GlassesSportGreen"
+			}
+		},
+		{ 	"AreaName": "Heaven3", 
+			"Type": "ContaminatedArea_Static", 
+			"TriggerType": "EffectTrigger",
+			"Data": { 
+				"Pos": [
+                8117.16943359375,
+                558.0,
+                9083.6005859375
+            ],
+				"Radius": 50,
+				"PosHeight": 10,
+				"NegHeight": 10,
+				"InnerRingCount": 1,
+				"InnerPartDist": 10,
+				"OuterRingToggle": 1, 
+				"OuterPartDist": 20, 
+				"OuterOffset": 0, 
+				"VerticalLayers": 0,
+				"VerticalOffset": 0,
+				"ParticleName": "graphics/particles/spooky_mist"
+				},
+			"PlayerData": {
+				"AroundPartName": "graphics/particles/spooky_mist",
+				"PPERequesterType": "PPERequester_GlassesSportGreen"
+			}
+		},
